@@ -13,7 +13,7 @@ post_date: 2017-09-10 15:53:11
 
 &nbsp;
 
-Li Zhang is a doctor working in Suzhou Gangji Hospital as a professional nutritionist as well as a therapist. She graduated from the Nanjing University of Chinese Medicine, getting nutrition education from there.
+<strong>Li Zhang</strong> <em>is a doctor working in Suzhou Gangji Hospital as a professional nutritionist as well as a therapist. She graduated from the Nanjing University of Chinese Medicine, getting nutrition education from there.</em>
 She serves patients by providing diet suggestions and therapy regarding their health condition to help them promote health, prevent injury or disability.
 
 Li Zhang is highly educated and holds certifications in her field which includes,
@@ -27,4 +27,4 @@ Her certifications can be viewed below.
 
 For personalised diet plans and queries, she can be contacted on Weibo via the link provided below.
 
-<a href="http://weibo.com/u/2325697261?refer_flag=1001030101_&amp;amp;is_hot=1">Li Zhang Weibo Link</a>
+<a href="http://weibo.com/u/2325697261?refer_flag=1001030101_&amp;amp;is_hot=1"><em><strong>Li Zhang Weibo Link</strong></em></a>
