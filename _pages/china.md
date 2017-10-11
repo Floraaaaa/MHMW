@@ -19,7 +19,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="HIGH BLOOD PRESSURE">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/e83cb40d21f6053ecd0b4204e2445b97e677e4dd1db6194891_1920.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/OWL-0056-010615-what-you-really-need-to-know-about-HBP.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -37,7 +37,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="CHOLESTEROL">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/ef31b60a2bf51c3e815d4401ee514793e371ead11eb81242_1920.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/shutterstock_548793235-705x453.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -92,7 +92,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: ; "
 					title="KNOW YOUR NUTRITIONIST">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/nutritionist-1-1024x1024.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/MANLY-1.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
