@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-10-01 10:13:01
 ---
-<div id="pl-1353"  class="panel-layout" ><div id="pg-1353-0"  class="panel-grid panel-no-style" ><div id="pgc-1353-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-1353-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-882bd164377a">
+<div id="pl-1353"  class="panel-layout" ><div id="pg-1353-0"  class="panel-grid panel-no-style" ><div id="pgc-1353-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-1353-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-882bd164377a">
 <div class="sow-features-list sow-features-responsive">
 
 			
