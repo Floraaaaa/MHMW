@@ -20,7 +20,7 @@ post_date: 2017-10-01 10:06:15
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="HIGH BLOOD PRESSURE">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/OWL-0056-010615-what-you-really-need-to-know-about-HBP-e1507730236350.jpg); font-size: 250px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/QQ截图20171012010019.png); font-size: 250px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
