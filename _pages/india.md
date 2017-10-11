@@ -8,22 +8,22 @@ permalink: http://www.myhealthmyway.tk/india/
 published: true
 post_date: 2017-09-10 12:08:15
 ---
-<div id="pl-985"  class="panel-layout" ><div id="pg-985-0"  class="panel-grid panel-no-style" ><div id="pgc-985-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-985-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-2cb85fc497f8">
+<div id="pl-985"  class="panel-layout" ><div id="pg-985-0"  class="panel-grid panel-no-style" ><div id="pgc-985-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-985-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-623d8355e1be">
 <div class="sow-features-list sow-features-responsive">
 
 			
 			
 			<div class="sow-features-feature sow-icon-container-position-top " style="width: 33.333%">
 
-				<a href="http://35.201.22.184/blood-pressure/" >				<div
+				<a href="http://www.myhealthmyway.tk/blood-pressure/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="HIGH BLOOD PRESSURE">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf0f0;" style="font-size: 48px; color: #1e73be"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/OWL-0056-010615-what-you-really-need-to-know-about-HBP.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/blood-pressure/" >							HIGH BLOOD PRESSURE							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/blood-pressure/" >							HIGH BLOOD PRESSURE							</a>						</h5>
 					
 											<p>Providing diet plan and some suggestion about what should eat and should avoid for high blood pressure patients.</p>					
 									</div>
@@ -33,15 +33,15 @@ post_date: 2017-09-10 12:08:15
 			
 			<div class="sow-features-feature sow-icon-container-position-top " style="width: 33.333%">
 
-				<a href="http://35.201.22.184/cholesterol/" >				<div
+				<a href="http://www.myhealthmyway.tk/cholesterol/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="CHOLESTEROL">
-					<span class="sow-icon-ionicons" data-sow-icon="&#xf3e4" style="font-size: 48px; color: #81d742"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/shutterstock_548793235-705x453.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/cholesterol/" >							CHOLESTEROL							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/cholesterol/" >							CHOLESTEROL							</a>						</h5>
 					
 											<p>Providing diet plan and some suggestion about what should eat and should avoid for cholesterol patients.</p>					
 									</div>
@@ -51,15 +51,15 @@ post_date: 2017-09-10 12:08:15
 			
 			<div class="sow-features-feature sow-icon-container-position-top " style="width: 33.333%">
 
-				<a href="http://35.201.22.184/diabetes/" >				<div
+				<a href="http://www.myhealthmyway.tk/diabetes/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="DIABETES">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf201;" style="font-size: 48px; color: #dd3333"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/eb35b40728f0043ecd0b4204e2445b97e677e4dd1db618479d_1920.png); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/diabetes/" >							DIABETES							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/diabetes/" >							DIABETES							</a>						</h5>
 					
 											<p>Providing diet plan and some suggestion about what should eat and should avoid for diabetes patients.</p>					
 									</div>
@@ -70,15 +70,15 @@ post_date: 2017-09-10 12:08:15
 			
 			<div class="sow-features-feature sow-icon-container-position-top " style="width: 33.333%">
 
-				<a href="http://35.201.22.184/fat-loss/" >				<div
+				<a href="http://www.myhealthmyway.tk/fat-loss/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="FAT LOSS">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf274;" style="font-size: 48px; color: #493811"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/ea3cb90929f71c3e815d4401ee514793e371ead111b11240_1920.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/fat-loss/" >							FAT LOSS							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/fat-loss/" >							FAT LOSS							</a>						</h5>
 					
 											<p>Providing diet plan and some suggestion about what should eat and should avoid for the people who want to loss weight.</p>					
 									</div>
@@ -88,15 +88,15 @@ post_date: 2017-09-10 12:08:15
 			
 			<div class="sow-features-feature sow-icon-container-position-top " style="width: 33.333%">
 
-				<a href="http://35.201.22.184/diet-plan-in-indian-cuisine-by-jai-tanwar/" >				<div
+				<a href="http://www.myhealthmyway.tk/diet-plan-in-indian-cuisine-by-jai-tanwar/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: ; "
 					title="KNOW YOUR NUTRITIONIST">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf2bb;" style="font-size: 48px; color: #dd9933"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/nutritionist-1-1024x1024.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/diet-plan-in-indian-cuisine-by-jai-tanwar/" >							KNOW YOUR NUTRITIONIST							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/diet-plan-in-indian-cuisine-by-jai-tanwar/" >							KNOW YOUR NUTRITIONIST							</a>						</h5>
 					
 											<p>Providing nutritionist's information for you.</p>					
 									</div>
@@ -110,7 +110,7 @@ post_date: 2017-09-10 12:08:15
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="INDIAN RECIPIES">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf000;" style="font-size: 48px; color: #68c4c4"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/bsRecipes.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -125,15 +125,15 @@ post_date: 2017-09-10 12:08:15
 			
 			<div class="sow-features-feature sow-icon-container-position-top sow-features-feature-last-row" style="width: 33.333%">
 
-				<a href="http://35.201.22.184/impact-of-western-diet-in-india/" >				<div
+				<a href="http://www.myhealthmyway.tk/impact-of-western-diet-in-india/" >				<div
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="IMPACT OF WESTERN DIET">
-					<span class="sow-icon-fontawesome" data-sow-icon="&#xf044;" style="font-size: 48px; color: #e224d9"></span>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/120608205229-man-eating-hamburger-close-up-super-169.jpg); font-size: 150px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
-							<a href="http://35.201.22.184/impact-of-western-diet-in-india/" >							IMPACT OF WESTERN DIET							</a>						</h5>
+							<a href="http://www.myhealthmyway.tk/impact-of-western-diet-in-india/" >							IMPACT OF WESTERN DIET							</a>						</h5>
 					
 											<p>Introducing the impact of western food.</p>					
 									</div>
