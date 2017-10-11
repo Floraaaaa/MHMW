@@ -9,11 +9,12 @@ permalink: >
 published: true
 post_date: 2017-09-10 15:47:12
 ---
-<div id="pl-1000"  class="panel-layout" ><div id="pg-1000-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-1000-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-1000-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;padding&quot;:&quot;10px 10px 10px 10px&quot;,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-widget-style panel-widget-style-for-1000-0-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div id="pl-1000"  class="panel-layout" ><div id="pg-1000-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-1000-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-1000-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;padding&quot;:&quot;10px 10px 10px 10px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-widget-style panel-widget-style-for-1000-0-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p style="text-align: justify;">In November 1987, KFC launched a sub-branch in Qianmen, Beijing, becoming the first western fast food company in the Chinese market. After Thirty years development, it now becomes the Chinese largest restaurant chain. KFC offers customers fried chicken, a typical Western-style fast food. The food is calorically dense, has highly refined carbohydrates, features meat or processed meat with high sodium, cholesterol and has a bad dietary fatty acid. Historical evidence indicates western-style fast food intake raises the incidence of getting cardiovascular disease and type 2 diabetes.</p>
 <p style="text-align: justify;">There's an exciting paper indicates that (Odegaard, Koh, Yuan, Gross, Mark &amp; Pereira, 2012, p. 182) younger generation are more prefer Western-style fast food. People who take Western-style fast food more frequently usually consuming fewer vegetables, less dietary fiber as well as less dairy products. However, Dietary Guidelines for American 2015-2020 published by USDA suggested that the intake of saturated fat should be restricted to 10% of total calorie. Also, WHO suggests that a minimum of 400g of fruit and veg should be eaten every day.</p>
-<p style="text-align: justify;">Following are three tables regarding the relationship between Western-style fast food monthly intake with Coronary Heart Disease (CHD) Mortality.</p>
+<p style="text-align: justify;">Following are three tables regarding the relationship between Western-style fast food </p><p style="text-align: justify;">monthly intake with Coronary Heart Disease (CHD) Mortality.</p>
+Table 1 shows the characteristics according to Intake Frequency of Western-Style Fast Food. We can see female prefer Western-Style Fast Food than male. People who have higher frequency intake of fast food not tend to do physical activity in usual. Besides, they tend to intake more red meats, sodium, and less carbohydrate source food as well as dietary fiber food. Also, more saturated fat and cholesterol intake is another typical major feature differ from No Intake participants.
 <table class=" alignleft" style="border-style: solid;">
 <tbody>
 <tr>
@@ -23,14 +24,12 @@ post_date: 2017-09-10 15:47:12
 <td>Characteristic</td>
 <td>No Intake</td>
 <td>1-3 Times of a Month</td>
-<td>
-<p>Intake of 1</p>
-<p>Time a Week</p>
-</td>
-<td>
-<p>Intake of 2</p>
-<p>Times a Week</p>
-</td>
+<td>Intake of 1
+
+Time a Week</td>
+<td>Intake of 2
+
+Times a Week</td>
 </tr>
 <tr>
 <td>n</td>
@@ -76,10 +75,10 @@ post_date: 2017-09-10 15:47:12
 </tr>
 <tr>
 <td><b>Dietary</b></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Vegetables, g/1000 kcal*</td>
@@ -196,23 +195,23 @@ post_date: 2017-09-10 15:47:12
 </tbody>
 </table>
 <p style="text-align: justify;">Table 1: Participant Characteristics at Baseline according to Intake Frequency of Western-Style Fast Food Items</p>
+&nbsp;
+
+<p style="text-align: justify;">Table 2 indicates the Hazard Ratio and confidence interval regarding the crude incident type 2 diabetes rate. We learned that people who tend to intake Western-Style Fast Food with high frequency have the higher risk getting type 2 diabetes than non-intake people in three models.</p>
 <table style="border: solid;">
 <tbody>
 <tr>
-<td> </td>
+<td></td>
 <td>No Intake</td>
-<td>
-<p>Intake of 1–3</p>
-<p>Times a Month</p>
-</td>
-<td>
-<p>Intake of 1</p>
-<p>Time a Week</p>
-</td>
-<td>
-<p>Intake of 2</p>
-<p>Times a Week</p>
-</td>
+<td>Intake of 1–3
+
+Times a Month</td>
+<td>Intake of 1
+
+Time a Week</td>
+<td>Intake of 2
+
+Times a Week</td>
 <td><i>P</i></td>
 </tr>
 <tr>
@@ -221,7 +220,7 @@ post_date: 2017-09-10 15:47:12
 <td>901/17615</td>
 <td>131/2586</td>
 <td>118/2214</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>Rate</td>
@@ -229,7 +228,7 @@ post_date: 2017-09-10 15:47:12
 <td>934</td>
 <td>987</td>
 <td>1250</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>Model 1: HR (95% CI)</td>
@@ -261,23 +260,23 @@ post_date: 2017-09-10 15:47:12
 </tbody>
 </table>
 <p style="text-align: justify;">Table 2: Hazard Ratio and 95% Confidence Interval of Incident Type 2 Diabetes according to Intake Frequency of Western-Style Fast Food Items: Singapore Chinese Health Study</p>
+&nbsp;
+
+<p style="text-align: justify;">Table 3 illustrates people with high-frequency Fast Food intake are more natural getting coronary heart disease than non-intake Western-Style Fast Food people</p>
 <table style="border: solid;">
 <tbody>
 <tr>
-<td> </td>
+<td></td>
 <td>No Intake</td>
-<td>
-<p>Intake of 1–3</p>
-<p>Times a Month</p>
-</td>
-<td>
-<p>Intake of 1</p>
-<p>Time a Week</p>
-</td>
-<td>
-<p>Intake of 2</p>
-<p>Times a Week</p>
-</td>
+<td>Intake of 1–3
+
+Times a Month</td>
+<td>Intake of 1
+
+Time a Week</td>
+<td>Intake of 2
+
+Times a Week</td>
 <td><i>P </i>for Trend</td>
 </tr>
 <tr>
@@ -286,7 +285,7 @@ post_date: 2017-09-10 15:47:12
 <td>503/21133</td>
 <td>51/3006</td>
 <td>59/2635</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>Rate</td>
@@ -294,7 +293,7 @@ post_date: 2017-09-10 15:47:12
 <td>245</td>
 <td>235</td>
 <td>313</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>Model 1: HR (95% CI)</td>
