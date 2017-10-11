@@ -8,7 +8,7 @@ permalink: http://www.myhealthmyway.tk/china/
 published: true
 post_date: 2017-09-10 11:59:11
 ---
-<div id="pl-977"  class="panel-layout" ><div id="pg-977-0"  class="panel-grid panel-no-style" ><div id="pgc-977-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-977-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-623d8355e1be">
+<div id="pl-977"  class="panel-layout" ><div id="pg-977-0"  class="panel-grid panel-no-style" ><div id="pgc-977-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-977-0-0-0" class="so-panel widget widget_sow-features panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-features so-widget-sow-features-default-25f6cad99103">
 <div class="sow-features-list sow-features-responsive">
 
 			
@@ -19,7 +19,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="HIGH BLOOD PRESSURE">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/OWL-0056-010615-what-you-really-need-to-know-about-HBP.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/QQ截图20171012010019.png); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -37,7 +37,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="CHOLESTEROL">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/shutterstock_548793235-705x453.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/shutterstock_548793235-705x453.jpg); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -55,7 +55,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="DIABETES">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/eb35b40728f0043ecd0b4204e2445b97e677e4dd1db618479d_1920.png); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/eb35b40728f0043ecd0b4204e2445b97e677e4dd1db618479d_1920.png); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -74,7 +74,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="FAT LOSS">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/10/ea3cb90929f71c3e815d4401ee514793e371ead111b11240_1920.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/3.png); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -92,7 +92,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: ; "
 					title="KNOW YOUR NUTRITIONIST">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/MANLY-1.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/MANLY-1.jpg); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -110,7 +110,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="CHINESE RECIPIES">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/bsRecipes.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/1.png); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
@@ -129,7 +129,7 @@ post_date: 2017-09-10 11:59:11
 					class="sow-icon-container sow-container-none"
                     style="color: #404040; "
 					title="IMPACT OF WESTERN DIET">
-					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/120608205229-man-eating-hamburger-close-up-super-169.jpg); font-size: 150px"></div>				</div>
+					<div class="sow-icon-image" style="background-image: url(http://www.myhealthmyway.tk/wp-content/uploads/2017/09/2-1.png); font-size: 200px"></div>				</div>
 				</a>
 				<div class="textwidget">
 											<h5>
