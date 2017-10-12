@@ -9,12 +9,16 @@ permalink: >
 published: true
 post_date: 2017-09-10 15:53:11
 ---
-<img class="size-medium wp-image-579" src="http://35.201.22.184/wp-content/uploads/2017/09/Li-image-219x300.png" alt="" width="219" height="300" />
+<img class="size-medium wp-image-579 alignleft" src="http://35.201.22.184/wp-content/uploads/2017/09/Li-image-219x300.png" alt="" width="219" height="300" />
 
 &nbsp;
 
 <strong>Li Zhang</strong> <em>is a doctor working in Suzhou Gangji Hospital as a professional nutritionist as well as a therapist. She graduated from the Nanjing University of Chinese Medicine, getting nutrition education from there.</em>
 She serves patients by providing diet suggestions and therapy regarding their health condition to help them promote health, prevent injury or disability.
+
+&nbsp;
+
+&nbsp;
 
 Li Zhang is highly educated and holds certifications in her field which includes,
 <ul>
