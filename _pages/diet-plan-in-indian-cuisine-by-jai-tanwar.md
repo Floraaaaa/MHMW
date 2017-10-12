@@ -13,11 +13,15 @@ post_date: 2017-09-10 16:05:34
 ---
 &nbsp;
 
-<img class="alignnone size-full wp-image-284" src="http://35.201.22.184/wp-content/uploads/2017/08/Snip20170820_8.png" alt="" width="195" height="240" />
+<img class="size-full wp-image-284 alignleft" src="http://35.201.22.184/wp-content/uploads/2017/08/Snip20170820_8.png" alt="" width="195" height="240" />
+
+&nbsp;
 
 <em><strong>Jai Tanwar</strong> is a Personal Trainer with 5 years of health and wellness experience across fitness centres. He possesses a proven track record in helping clients achieve fitness goals through customized exercises programs and diet plans. </em>
 
 Currently, he owns the chain of the fitness centre in India known by the name Reshape and provides professional personal training and diet plans to his clients.
+
+&nbsp;
 
 Jai Tanwar is highly educated and holds certifications in his field which includes,
 <ul>
