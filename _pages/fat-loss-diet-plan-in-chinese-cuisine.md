@@ -14,7 +14,7 @@ post_date: 2017-09-10 16:02:04
 	<p style="text-align: left;">[expand title="早餐(BREAKFAST)"]</p>
 <p>[table id=41 /]</p>
 <p style="text-align: left;">[/expand]</p>
-<p style="text-align: left;">[expand title="上午加餐(MORING SNACK)"]</p>
+<p style="text-align: left;">[expand title="上午加餐(MORNING SNACK)"]</p>
 <p>[table id=42 /]</p>
 <p style="text-align: left;">[/expand]</p>
 <p style="text-align: left;">[expand title="午餐(LUNCH)" ]</p>
