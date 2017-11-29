@@ -1,6 +1,8 @@
 ---
 ID: 1347
-post_title: WHICH CUISINE WOULD YOU PREFER
+post_title: >
+  PLEASE SELECT A COUNTRY YOU PREFER FOR
+  FOOD TO AVOID
 author: admin
 post_excerpt: ""
 layout: page
