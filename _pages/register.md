@@ -4,7 +4,7 @@ post_title: Register
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://www.myhealthmyway.tk/register/
+permalink: http://35.188.42.148/register/
 published: true
 post_date: 2017-10-01 11:38:09
 ---
